@@ -43,8 +43,12 @@ Mi interés se centra en construir ecosistemas digitales que respeten la privaci
 ## Estadísticas
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ElalChico?style=flat&label=Stars&color=4c1" alt="GitHub stars">
-  <img src="https://img.shields.io/github/followers/ElalChico?style=flat&label=Followers&color=blue" alt="GitHub followers">
+  <a href="https://github.com/ElalChico?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ElalChico?style=flat&label=Estrellas&color=4c1" alt="Estrellas de GitHub">
+  </a>
+  <a href="https://github.com/ElalChico">
+    <img src="https://img.shields.io/github/followers/ElalChico?style=flat&label=Seguidores&color=blue" alt="Seguidores en GitHub">
+  </a>
 </p>
 
 ---
