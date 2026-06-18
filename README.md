@@ -2,8 +2,6 @@
 
 **Desarrollador autodidacta | Infraestructura, seguridad y software libre**
 
-> `s4møth` es la firma de software, la lógica detrás del sistema. `Elal Chico` es el pseudónimo para textos, datos y estudios. Este espacio de trabajo contiene ambas capas.
-
 ---
 
 ## Perfil
@@ -15,11 +13,12 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 **Áreas de enfoque:**
 
 - Hacking ético y ciberseguridad
-- Software libre y privacidad
-- Sistemas adaptativos basados en procesos cognitivos
+- Software Open Source y privacidad
+- Sistemas adaptativos basados en procesos cognitivos <MI ENFOQUE AL QUE LE DEDICO MÁS TIEMPO>
+> *"Mis últimos estudios se ubican en el campo de las ciencias cognitivas, con foco en la metacognición. El laboratorio soy yo y mi cerebro. Llevo esto más allá de lo simple: como autista, he estudiado a otras personas del espectro, pero aunque compartimos enfoques o perspectivas, ponerme en su experiencia es difícil, por lo que me ocupo de estudiar mi propia mente. Aprendo a estudiarla, sé qué buscar. No necesito un título académico porque no pido permiso para pensar. La ciencia cognitiva nació de personas que se sentaron a observar su propia mente con disciplina y registraron lo que encontraron. William James, uno de los padres de la psicología, basó sus teorías en la introspección sistemática. Lo que hago es una versión contemporánea de ese método."*
+
 - Infraestructura como código y automatización
 - Desarrollo en Python, C#, Bash y PowerShell
-
 ---
 
 ## Proyectos destacados
