@@ -27,6 +27,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 |----------|-------------|-------------|
 | [GM-3000](https://github.com/ElalChico/GM-3000) | Evolución refactorizada del sistema de autoentrenamiento y simulación de ajedrez. | Python, algoritmos de búsqueda, redes neuronales |
 | [GM-2000](https://github.com/ElalChico/GM-2000) | Tablero original de entrenamiento y análisis de partidas de ajedrez. | Python, interfaz CLI |
+| [Triple Chess](https://github.com/ElalChico/triplechess) | Tablero experimental de 24×8 con tres reinos y tres reyes por bando. Fusiona la estrategia del ajedrez con la lógica combinatoria del Sudoku para potenciar la cognición espaciotemporal. Incluye modos Jugador vs IA e IA vs IA. | React 19, TypeScript, Tailwind CSS 4, Vite, Motion, Electron |
 | [Silenz-Encriptacion](https://github.com/ElalChico/Silenz-Encriptacion) | Framework de cifrado AES-GCM 256 bits multi-capa para comunicaciones sensibles. | Python, criptografía |
 | [Silenz](https://github.com/ElalChico/Silenz) | Interfaz web y documentación del framework Silenz. | HTML, CSS, JavaScript, Python |
 | [ScreenCutRelay](https://github.com/ElalChico/ScreenCutRelay) | Transmisión en tiempo real de pantalla Android (vía ADB/scrcpy) o webcam como MJPEG sobre HTTP. Incluye panel de control para etiquetas flotantes, recorte de zona y compatibilidad con navegadores, OBS y smart-TVs. | Python, Flask, scrcpy, ADB |
@@ -55,8 +56,8 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 | Categoría | Tecnologías |
 |-----------|-------------|
-| Lenguajes | Python, C#, Bash, PowerShell, JavaScript |
-| Frameworks | Flask, .NET, scrcpy |
+| Lenguajes | Python, C#, Bash, PowerShell, JavaScript, TypeScript |
+| Frameworks | Flask, .NET, React, Electron, Vite |
 | Sistemas | Debian, Windows, redes, virtualización |
 | Seguridad | Criptografía (AES-GCM), análisis de vulnerabilidades, hardening |
 | Control de versiones | Git, GitHub |
