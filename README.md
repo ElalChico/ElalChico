@@ -19,6 +19,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 - Infraestructura como código y automatización
 - Desarrollo en Python, C#, Bash y PowerShell
+
 ---
 
 ## Proyectos destacados
@@ -42,13 +43,54 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 ---
 
-## Estadísticas
+## 📊 Estadísticas de Contribución
 
-<p align="center">
-  <a href="https://github.com/ElalChico?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ElalChico?style=flat&label=Estrellas&color=4c1" alt="Estrellas de GitHub">
-  </a>
-</p>
+<div align="center">
+
+### 🔥 Racha de Contribuciones
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElalChico&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=FF6B35&stroke=000000)](https://git.io/streak-stats)
+
+### 📈 Actividad en el Último Año
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElalChico&theme=react-dark&hide_border=true&border_radius=10&area=true&bg_color=0D1117&line=FF6B35&point=FFFFFF&area_color=FF6B35&color=FFFFFF)
+
+</div>
+
+---
+
+### 🎯 Desglose de Contribuciones
+
+<div align="center">
+
+| Tipo de Contribución | Porcentaje |
+|---------------------|------------|
+| 📝 Commits | ![Commits](https://img.shields.io/badge/Commits-44%25-FF6B35?style=for-the-badge&logo=github) |
+| 🔀 Pull Requests | ![PRs](https://img.shields.io/badge/Pull_Requests-15%25-4C1?style=for-the-badge&logo=github) |
+| 🐛 Issues | ![Issues](https://img.shields.io/badge/Issues-3%25-FFA500?style=for-the-badge&logo=github) |
+| 👁️ Code Reviews | ![Reviews](https://img.shields.io/badge/Code_Reviews-38%25-9C27B0?style=for-the-badge&logo=github) |
+
+</div>
+
+---
+
+### 📊 Estadísticas Detalladas
+
+<div align="center">
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ElalChico&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ElalChico&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+### 🏆 Métricas Avanzadas
+
+<div align="center">
+
+![Métricas de GitHub](https://metrics.lecoq.io/ElalChico?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&followup=1&followup.sections=repositories&followup.indepth=true&followup.archetypes=true&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C+programming&languages.recent.categories=markup%2C+programming&languages.recent.load=300&languages.recent.days=14&notable=1&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&repositories=1&repositories.featured=GM-3000%2C+triplechess%2C+ScreenCutRelay&repositories.pinned=0&repositories.forks=false&repositories.archived=false&repositories.private=false&repositories.affiliations=owner&stars=1&stars.limit=4&stargazers=1&stargazers.charts=true&stargazers.lines=1&stargazers.worldmap=false&traffic=1&config.timezone=America%2FArgentina%2FBuenos_Aires&config.twemoji=true&config.octicon=true)
+
+</div>
 
 ---
 
@@ -80,4 +122,9 @@ Para seguir mi trabajo, visita mi perfil de GitHub. Para consultas específicas 
 
 <div align="center">
   <sub>Construyendo ecosistemas digitales con soberanía técnica.</sub>
+  
+  <br>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/ElalChico?style=social)](https://github.com/ElalChico?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/ElalChico?style=social)](https://github.com/ElalChico?tab=repositories)
 </div>
