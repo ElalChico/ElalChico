@@ -57,7 +57,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 ---
 
-### 🔥 Racha de Contribuciones (Datos Reales)
+### 🔥 Racha de Contribuciones
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElalChico&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&fire=FF6B35&stroke=000000&ring=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35)](https://git.io/streak-stats)
@@ -66,7 +66,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 ---
 
-### 📅 Gráfico de Actividad Anual (Datos Reales de la API de GitHub)
+### 📅 Gráfico de Actividad Anual 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElalChico&theme=react-dark&hide_border=true&border_radius=10&area=true&bg_color=0D1117&line=FF6B35&point=FFFFFF&area_color=FF6B35&color=FFFFFF)
@@ -92,7 +92,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 ---
 
-### 🏆 Métricas Avanzadas (Datos Reales de la API de GitHub)
+### 🏆 Métricas Avanzadas
 <div align="center">
 
 ![Métricas de GitHub](https://metrics.lecoq.io/ElalChico?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&followup=1&followup.sections=repositories&followup.indepth=true&followup.archetypes=true&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C+programming&languages.recent.categories=markup%2C+programming&languages.recent.load=300&languages.recent.days=14&notable=1&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&repositories=1&repositories.featured=GM-3000%2C+triplechess%2C+ScreenCutRelay&repositories.pinned=0&repositories.forks=false&repositories.archived=false&repositories.private=false&repositories.affiliations=owner&stars=1&stars.limit=4&stargazers=1&stargazers.charts=true&stargazers.lines=1&stargazers.worldmap=false&traffic=1&config.timezone=America%2FArgentina%2FBuenos_Aires&config.twemoji=true&config.octicon=true)
@@ -101,7 +101,7 @@ Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas neg
 
 ---
 
-### 🎯 Trofeos de GitHub (Basados en Logros Reales)
+### 🎯 Trofeos de GitHub 
 <div align="center">
 
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=ElalChico&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
