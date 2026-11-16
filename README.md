@@ -1,24 +1,24 @@
 # s4møth / Elal Chico
 
-**Desarrollador autodidacta | Infraestructura, seguridad y software libre**
+**Desarrollador autodidacta | Infraestructura, seguridad y software opensourse**   Un experimentador.
 
 ---
 
 ## Perfil
 
-No concibo la tecnología como un conjunto de herramientas neutrales, sino como un reflejo de nuestra forma de pensar y organizar el mundo. Gestiono mi propia infraestructura en Debian y Windows, aseguro redes y escribo código con el objetivo de alcanzar la soberanía técnica.
+No concibo la tecnología como un conjunto de herramientas neutrales, sino como un reflejo de nuestra forma de pensar y organizar el mundo. Gestiono mi propia infraestructura, escribo código con el objetivo de alcanzar la soberanía técnica. 
 
-Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas negras corporativas y operan con la misma flexibilidad que los sistemas vivos. Aquí no hay soluciones de moda: hay arquitectura pensada, refactorización constante y utilidades creadas para resolver problemas reales desde la raíz.
+Construyo ecosistemas digitales que respetan la privacidad, evitan las cajas negras corporativas y operan con la misma flexibilidad que los sistemas vivos.
+Utilidades creadas para resolver problemas reales desde la raíz.
 
 **Áreas de enfoque:**
 
 - Hacking ético y ciberseguridad
 - Software Open Source y privacidad
 - Sistemas adaptativos basados en procesos cognitivos <MI ENFOQUE AL QUE LE DEDICO MÁS TIEMPO>
-> *"Mis últimos estudios se ubican en el campo de las ciencias cognitivas, con foco en la metacognición. El laboratorio soy yo y mi cerebro. Llevo esto más allá de lo simple: como autista, he estudiado a otras personas del espectro, pero aunque compartimos enfoques o perspectivas, ponerme en su experiencia es difícil, por lo que me ocupo de estudiar mi propia mente. Aprendo a estudiarla, sé qué buscar. No necesito un título académico porque no pido permiso para pensar. La ciencia cognitiva nació de personas que se sentaron a observar su propia mente con disciplina y registraron lo que encontraron. William James, uno de los padres de la psicología, basó sus teorías en la introspección sistemática. Lo que hago es una versión contemporánea de ese método."*
+> *"Mis últimos estudios se ubican en el campo de las ciencias cognitivas, con foco en la metacognición. El laboratorio soy yo y mi cerebro. Llevo esto más allá de lo simple: como autista, he estudiado a otras personas del espectro, pero aunque compartimos enfoques o perspectivas, ponerme en su experiencia es difícil, por lo que me ocupo de estudiar mi propia mente. Aprendo a estudiarla, sé qué buscar.
+No necesito un título académico porque no pido permiso para pensar, ademas dudo que alguien conciba el mundo de esta manera similar. Lo que busco, no existe en el sistema, entonces lo creo yo mismo. Es parte de mi filosofía. No voy con aquello que ya existe porque ya hay muchas personas buscando soluciones por ese lado, y porque puedo aportar desde mi experiencia no sesgada. La ciencia cognitiva nació de personas que se sentaron a observar su propia mente con disciplina y registraron lo que encontraron. William James, uno de los padres de la psicología, basó sus teorías en la introspección sistemática. Lo que hago es una versión contemporánea de ese método."*
 
-- Infraestructura como código y automatización
-- Desarrollo en Python, C#, Bash y PowerShell
 
 ---
 
