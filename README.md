@@ -50,16 +50,46 @@ No necesito un título académico porque no pido permiso para pensar, ademas dud
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="55%">
-
 ![Perfil Detallado](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElalChico&theme=github_dark)
 
-</td>
-<td align="center" width="45%">
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ElalChico&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideLabels=FF6B35&sideNums=FFFFFF&dates=FFFFFF)
+
+</td>
+<td align="center" width="50%">
+
+![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElalChico&theme=github_dark)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+![Commits por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElalChico&theme=github_dark)
+
+</td>
+<td align="center" width="50%">
+
+![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElalChico&theme=github_dark)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElalChico&theme=github_dark&utcOffset=-3)
+
+</td>
+<td align="center" width="50%">
+
+![Calendario de Contribuciones](https://ghchart.rshah.org/FF6B35/ElalChico)
 
 </td>
 </tr>
@@ -69,42 +99,7 @@ No necesito un título académico porque no pido permiso para pensar, ademas dud
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElalChico&theme=github_dark)
-
-</td>
-<td align="center" width="33%">
-
-![Commits por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElalChico&theme=github_dark)
-
-</td>
-<td align="center" width="33%">
-
-![Estadísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElalChico&theme=github_dark)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-![Tiempo Productivo](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElalChico&theme=github_dark&utcOffset=-3)
-
-</td>
-<td align="center" width="33%">
-
-![Calendario de Contribuciones](https://ghchart.rshah.org/FF6B35/ElalChico)
-
-</td>
-<td align="center" width="33%">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElalChico&theme=react-dark&hide_border=true&border_radius=10&area=true&bg_color=0D1117&line=FF6B35&point=FFFFFF&area_color=FF6B35&color=FFFFFF)
-
-</td>
-</tr>
-</table>
 
 </div>
 
